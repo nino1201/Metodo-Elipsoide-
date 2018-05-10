@@ -85,6 +85,7 @@ function ELIPSOIDE(A,b)
 	 return(x)
 	 end
 	 end
+
 function SuperM(A,b,c)
 	 l=size(A)[1]
 	 j=size(A)[2]
